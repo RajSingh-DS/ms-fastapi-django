@@ -223,3 +223,4 @@ fabric.properties
 .history/
 
 # End of https://mrkandreev.name/snippets/gitignore-generator/#Python,PyCharm,VisualStudioCode
+.vscode
